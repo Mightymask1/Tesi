@@ -1,5 +1,4 @@
 pandas
-matplotlib.pyplot
 statsmodels.graphics.tsaplots
 statsmodels.tsa.stattools 
 statsmodels.tools
