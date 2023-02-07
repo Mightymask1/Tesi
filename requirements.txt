@@ -1,7 +1,5 @@
 pandas
-statsmodels.graphics.tsaplots
-statsmodels.tsa.stattools 
-statsmodels.tools
+statsmodels
 warnings
 streamlit
 datetime
