@@ -7,7 +7,7 @@ warnings
 streamlit
 datetime
 plotly.express
-numpy as np
+numpy
 yfinance
 matplotlib
 scipy
