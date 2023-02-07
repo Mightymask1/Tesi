@@ -1,0 +1,15 @@
+pandas
+matplotlib.pyplot
+statsmodels.graphics.tsaplots
+statsmodels.tsa.stattools 
+statsmodels.tools
+warnings
+streamlit
+datetime
+plotly.express
+numpy as np
+yfinance
+matplotlib
+scipy
+seaborn
+pyfolio
