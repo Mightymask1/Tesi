@@ -1,6 +1,5 @@
 pandas
 statsmodels
-warnings
 streamlit
 datetime
 plotly.express
